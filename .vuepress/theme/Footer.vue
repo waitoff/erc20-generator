@@ -18,7 +18,7 @@
                             <b-list-group-item to="/create-token/" class="text-light">
                                 Create ERC20 Token
                             </b-list-group-item>
-                            <b-list-group-item href="https://heri16.github.io/watch-token/" target="_blank" class="text-light">
+                            <b-list-group-item href="https://erc20gen.xoip.ru/watch-token/" target="_blank" class="text-light">
                                 Create ERC20 Widget
                             </b-list-group-item>
                             <b-list-group-item href="https://heri16.github.io/bep20-generator/" target="_blank" class="text-warning">
