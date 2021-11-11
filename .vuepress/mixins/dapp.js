@@ -70,7 +70,7 @@ export default {
           },
           joys: {
             web3Provider: `https://node.joys.digital`,
-            etherscanLink: 'http://poas.joys.digital',
+            etherscanLink: 'http://explorer.joys.digital',
             id: 35855456,
             name: 'Joys Network',
           },
