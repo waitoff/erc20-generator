@@ -34,6 +34,8 @@ export default {
           4: 'rinkeby',
           42: 'kovan',
           5: 'goerli',
+          35855456: 'joys',
+          99415706: 'toys',
         },
         list: {
           mainnet: {
@@ -65,6 +67,18 @@ export default {
             etherscanLink: 'https://goerli.etherscan.io',
             id: 5,
             name: 'Goerli Test Network',
+          },
+          joys: {
+            web3Provider: `https://node.joys.digital`,
+            etherscanLink: 'http://poas.joys.digital',
+            id: 35855456,
+            name: 'Joys Network',
+          },
+          toys: {
+            web3Provider: `https://node.toys-pos.joys.cash/`,
+            etherscanLink: 'https://testing.explorer.joys.digital/',
+            id: 99415706,
+            name: 'Joys Test Network',
           },
         },
       },

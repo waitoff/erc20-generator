@@ -341,7 +341,7 @@
                                             </b-form-select>
                                         </b-form-group>
 
-                                        <b-alert show variant="warning" v-if="currentNetwork !== 'mainnet'">
+                                        <b-alert show variant="warning" v-if="currentNetwork !== 'joys'">
                                             <strong>
                                                 You selected a TEST Network.
                                             </strong>
